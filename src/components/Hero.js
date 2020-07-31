@@ -9,15 +9,14 @@ class Hero extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div>
+      <>
         {posts &&
           posts.slice(0,1).map(({ node: post }) => (
-            <div className="full-width-image is-hero"
-              style={{
-                backgroundImage: `url(${post.frontmatter.featuredimage})`,
-                backgroundPosition: `top left`,
-                backgroundAttachment: `fixed`,
-              }}
+            <div style={{
+              backgroundImage: `url(${ post.frontmatter.featuredimage })`,
+              backgroundPosition: `top left`,
+              backgroundAttachment: `fixed`,
+            }}
             >
             <div className="is-parent column is-6" key={post.id}>
               <article
@@ -59,9 +58,9 @@ class Hero extends React.Component {
                 </p>
               </article>
             </div>
+            </div>
           ))}
-      </div>
-    </div>
+      </>
     )
   }
 }
