@@ -9,9 +9,16 @@ class Hero extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
-      <div className="columns is-hero">
+      <div>
         {posts &&
           posts.slice(0,1).map(({ node: post }) => (
+            <div className="full-width-image is-hero"
+              style={{
+                backgroundImage: `url(${post.frontmatter.featuredimage})`,
+                backgroundPosition: `top left`,
+                backgroundAttachment: `fixed`,
+              }}
+            >
             <div className="is-parent column is-6" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
@@ -54,6 +61,7 @@ class Hero extends React.Component {
             </div>
           ))}
       </div>
+    </div>
     )
   }
 }
