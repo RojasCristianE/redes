@@ -7,13 +7,14 @@ class Hero extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
+    const values = {...post.frontmatter.featuredimage};
 
     return (
       <>
         {posts &&
           posts.slice(0,1).map(({ node: post }) => (
             <div style={{
-              backgroundImage: `url(${ post.frontmatter.featuredimage })`,
+              backgroundImage: `url(${ values })`,
               backgroundPosition: `top left`,
               backgroundAttachment: `fixed`,
             }}
