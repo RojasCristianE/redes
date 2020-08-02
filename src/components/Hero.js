@@ -14,7 +14,7 @@ class Hero extends React.Component {
         {posts &&
           posts.slice(0,1).map(({ node: post }) => (
             <div style={{
-              backgroundImage: `url(${{...post.frontmatter.featuredimage}})`,
+              backgroundImage: `url(${ post.frontmatter.featuredimage.childImageSharp.fluid.src })`,
               backgroundPosition: `top left`,
               backgroundAttachment: `fixed`,
             }}
