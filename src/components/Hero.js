@@ -15,8 +15,10 @@ class Hero extends React.Component {
           posts.slice(0,1).map(({ node: post }) => (
             <div style={{
               backgroundImage: `url(${ post.frontmatter.featuredimage.childImageSharp.fluid.src })`,
-              backgroundPosition: `top left`,
-              backgroundAttachment: `fixed`,
+              backgroundPosition: `center center`,
+              backgroundAttachment: `cover`,
+              backgroundSize: `cover`,
+              backgroundRepeat: `no-repeat`,
             }}
             >
             <div className="is-parent column is-6" key={post.id}>
