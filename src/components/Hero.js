@@ -21,43 +21,29 @@ class Hero extends React.Component {
               backgroundRepeat: `no-repeat`,
             }}
             >
-            <div className="is-parent column is-6" key={post.id}>
+            <div style={{
+              paddingBottom: `5vh`,
+              height: `60vh`,
+              display: `flex`,
+              alignItems: `flex-end`
+            }}>
               <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
+                className={`featured`}
               >
                 <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
-                      <PreviewCompatibleImage
-                        imageInfo={{
-                          image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                        }}
-                      />
-                    </div>
-                  ) : null}
-                  <p className="post-meta">
+                  <p>
                     <Link
-                      className="title has-text-primary is-size-4"
+                      className="title" style={{
+                        color: `white`
+                      }}
                       to={post.fields.slug}
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
                   </p>
                 </header>
                 <p>
                   {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
                 </p>
               </article>
             </div>
