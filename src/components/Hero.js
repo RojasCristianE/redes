@@ -78,12 +78,13 @@ export default () => (
               }
               frontmatter {
                 title
+                description
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 1200, quality: 100) {
+                    fluid(maxWidth: 1200, quality: 75) {
                       ...GatsbyImageSharpFluid
                     }
                   }
