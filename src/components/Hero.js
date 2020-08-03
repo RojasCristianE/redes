@@ -5,13 +5,13 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 class Hero extends React.Component {
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
+    const { edges: posts } = data.allMarkdownRemark.slice(0,1)
 
 
     return (
       <>
         {posts &&
-          posts.slice(0,1).map(({ node: post }) => (
+          posts.map(({ node: post }) => (
             <div style={{
               backgroundImage: `url(${ post.frontmatter.featuredimage.childImageSharp.fluid.src })`,
               backgroundPosition: `center center`,
