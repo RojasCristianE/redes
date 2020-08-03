@@ -9,5 +9,6 @@ tags:
   - entrada
   - blog
   - post
+  - analisis
 ---
 Texto balurde
