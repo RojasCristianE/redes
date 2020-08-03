@@ -8,7 +8,7 @@ import twitter from '../img/social/twitter.svg'
 const SocialLinks = class extends React.Component {
   render() {
     return (
-      <div className="column is-4 social">
+      <div className="social">
         <a title="facebook" href="https://www.facebook.com/redesciencia">
           <img
             src={facebook}
