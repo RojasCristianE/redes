@@ -5,7 +5,8 @@ import { Link, graphql, StaticQuery } from 'gatsby'
 class Hero extends React.Component {
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark.slice(0,1)
+    let { edges: posts } = data.allMarkdownRemark
+    posts = posts.slice(0,1)
 
 
     return (

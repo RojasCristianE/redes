@@ -6,7 +6,8 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark.slice(1, data.allMarkdownRemark.length + 1);
+    let { edges: posts } = data.allMarkdownRemark
+    posts = posts.slice(1, posts.length + 1)
 
     return (
       <div className="columns is-multiline">
