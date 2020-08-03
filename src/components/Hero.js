@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class Hero extends React.Component {
   render() {
@@ -27,7 +26,7 @@ class Hero extends React.Component {
               display: `flex`,
               alignItems: `flex-end`
             }}>
-              <article
+              <article key={post.id}
                 className={`featured`}
               >
                 <header>
@@ -43,7 +42,7 @@ class Hero extends React.Component {
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.frontmatter.description}
                 </p>
               </article>
             </div>
@@ -84,7 +83,7 @@ export default () => (
                 featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 1200, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }
