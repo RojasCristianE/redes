@@ -6,7 +6,7 @@ description: Las redes sociales en el mundo se han convertido en una plataforma
   de opinión sobre temas coyunturales, con un análisis correcto de su
   funcionamiento y cobertura podemos tener una visión más amplia de su
   influencia en el imaginario colectivo.
-featuredimage: /img/hootsuitenicaragua.png-02.png
+featuredimage: /img/whatsapp-image-2020-08-04-at-15.17.50-1-.jpeg
 tags:
   - Nicaragua
   - Análisis
@@ -16,6 +16,10 @@ tags:
   - Instagram
   - LinkedIn
 ---
+![](/img/whatsapp-image-2020-08-04-at-15.07.00.jpeg)
+
+
+
 Las redes sociales en el mundo se han convertido en una plataforma de opinión sobre temas coyunturales, con un análisis correcto de su funcionamiento y cobertura podemos tener una visión más amplia de su influencia en el imaginario colectivo.
 
 En un informe publicado por las empresas “We are social” y “Hootsuite” en enero de este año, se reportó que de los 6.59 millones de habitantes en Nicaragua, un 47% de la población tiene acceso a internet, es decir 3.10 millones de ciudadanos usa la red desde los 9.96 millones de dispositivos existentes en todo el territorio.
@@ -54,16 +58,4 @@ Para finalizar, los datos revelados por el informe demuestran que Twitter tiene 
 
 ![Número potencial de personas usando Twitter en Nicaragua](/img/hootsuitenicaragua.png-18.png "Audiencia de Twitter")
 
-
-
-
-
-
-
-> Fuentes
-
-![](/img/hootsuitenicaragua.png-39.png)
-
-![](/img/hootsuitenicaragua.png-40.png)
-
-![](/img/hootsuitenicaragua.png-41.png)
+![](/img/whatsapp-image-2020-08-04-at-15.17.50.jpeg)
