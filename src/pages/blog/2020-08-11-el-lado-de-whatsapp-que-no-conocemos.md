@@ -7,8 +7,6 @@ tags:
   - Redes
   - Datos
 ---
-![Logotipo de Whatsapp bajo una lupa](/img/datos-estadisticos-de-whatsapp-nicaragua.jpg "Datos de Whatsapp en Nicaragua")
-
 Mundialmente la cuota de navegación de internet global en teléfonos móviles es de 53.3% y en tabletas el 2.7% con un rango de edades de usuarios que van desde los 8 años. Estando WhatsApp como la aplicación de mensajería número uno alrededor del mundo. (**Global digital year book)**
 
 WhatsApp es una aplicación de mensajería que vino revolucionar la forma de comunicarse ya que no necesitas tener tiempo aire para enviar un mensaje o realizar una llamada solo necesitas tener conexión a internet
