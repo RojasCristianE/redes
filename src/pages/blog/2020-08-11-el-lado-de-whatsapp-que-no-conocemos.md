@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: El lado de WhatsApp que no conocemos
 date: 2020-08-11T21:40:05.871Z
-featuredimage: /img/whaaaa.png
+featuredimage: /img/datos-estadisticos-de-whatsapp-nicaragua.jpg
 tags:
   - Redes
   - Datos
 ---
-![](/img/whaaaa.png)
+![Logotipo de Whatsapp bajo una lupa](/img/datos-estadisticos-de-whatsapp-nicaragua.jpg "Datos de Whatsapp en Nicaragua")
 
 Mundialmente la cuota de navegación de internet global en teléfonos móviles es de 53.3% y en tabletas el 2.7% con un rango de edades de usuarios que van desde los 8 años. Estando WhatsApp como la aplicación de mensajería número uno alrededor del mundo. (**Global digital year book)**
 
