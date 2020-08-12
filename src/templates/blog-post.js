@@ -12,6 +12,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  featuredimage
 }) => {
   const PostContent = contentComponent || Content
 
@@ -22,8 +23,19 @@ export const BlogPostTemplate = ({
         <div className="columns">
           <div className="column is-10 is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
+             {title}
             </h1>
+            <figure className="imagen-destacada" style={{
+              display: `block`,
+              height: `calc(10vw + 40vh)`,
+              width: `fit-content`,
+              margin: `0 auto`,
+            }}>
+              <img src={featuredimage.childImageSharp.fluid.src} style={{
+                objectFit: `contain`,
+                height: `100%`,
+              }}></img>
+            </figure>
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -66,6 +78,7 @@ const BlogPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        featuredimage={post.frontmatter.featuredimage}
       />
     </Layout>
   )
@@ -86,6 +99,13 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        featuredimage {
+          childImageSharp {
+            fluid(maxWidth: 1200, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         title
         tags
       }

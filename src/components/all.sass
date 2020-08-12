@@ -2,7 +2,7 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$kaldi-red: #0066f1
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
@@ -18,7 +18,7 @@ $black: #2b2523
   color: white;
   height: 50%;
   justify-self: auto;
-  width: 50%;
+  width: calc(50vw + 10vh);
   padding: 2vh;
 
 .content .taglist
@@ -129,6 +129,9 @@ $menu-label-color: $white-ter
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
+
+a.title.has-text-primary.is-size-4
+  text-decoration: none!important;
 
 
 @import "~bulma"
