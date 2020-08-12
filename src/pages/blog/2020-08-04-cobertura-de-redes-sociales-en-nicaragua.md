@@ -2,10 +2,6 @@
 templateKey: blog-post
 title: Cobertura de Redes Sociales en Nicaragua
 date: 2020-08-04T20:58:43.825Z
-description: Las redes sociales en el mundo se han convertido en una plataforma
-  de opinión sobre temas coyunturales, con un análisis correcto de su
-  funcionamiento y cobertura podemos tener una visión más amplia de su
-  influencia en el imaginario colectivo.
 featuredimage: /img/whatsapp-image-2020-08-04-at-15.17.50-1-.jpeg
 tags:
   - Nicaragua
@@ -15,6 +11,7 @@ tags:
   - Twitter
   - Instagram
   - LinkedIn
+  - Destacada
 ---
 ![](/img/whatsapp-image-2020-08-04-at-15.07.00.jpeg)
 

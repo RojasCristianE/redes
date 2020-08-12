@@ -3,21 +3,22 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
+import moment from 'moment';
+import 'moment/locale/es';
+moment.locale('es');
+
 class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
     let { edges: posts } = data.allMarkdownRemark
-    posts = posts.slice(1, posts.length + 1)
 
     return (
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
+            <div className="is-parent column is-12" key={post.id}>
               <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
+                className={`blog-list-item tile is-child box notification`}
               >
                 <header>
                   {post.frontmatter.featuredimage ? (
@@ -39,7 +40,7 @@ class BlogRoll extends React.Component {
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                      {moment(post.frontmatter.date).format('DD MMMM, YYYY')}
                     </span>
                   </p>
                 </header>
@@ -48,7 +49,7 @@ class BlogRoll extends React.Component {
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
+                    Seguir leyendo →
                   </Link>
                 </p>
               </article>
@@ -85,8 +86,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
-                featuredpost
+                date(formatString: "DD MMMM, YYYY")
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 120, quality: 100) {

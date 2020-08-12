@@ -6,13 +6,15 @@ class Hero extends React.Component {
   render() {
     const { data } = this.props
     let { edges: posts } = data.allMarkdownRemark
-    posts = posts.slice(0,1)
+    // posts = posts.filter(({ node: post }) => {
+      // post.frontmatter.tags.find(tag => tag == 'Destacada')
+    // })
 
 
     return (
       <>
         {posts &&
-          posts.map(({ node: post }) => (
+          posts.filter(({ node: post }) => post.frontmatter.tags.includes('Destacada')).slice(0,1).map(({ node: post }) => (
             <div style={{
               backgroundImage: `url(${ post.frontmatter.featuredimage.childImageSharp.fluid.src })`,
               backgroundPosition: `center center`,
@@ -28,23 +30,27 @@ class Hero extends React.Component {
               alignItems: `flex-end`
             }}>
               <article key={post.id}
-                className={`featured`}
+                className="featured"
+                style={{
+                  display: `flex`,
+                  alignItems: `center`,
+                }}
               >
                 <header>
-                  <p>
+                  <h2>
                     <Link
                       className="title" style={{
-                        color: `white`
+                        color: `white`,
+                        fontStyle: `italic`,
+                        textTransform: `uppercase`,
+                        fontSize: `calc(2vw + 3vh)`
                       }}
                       to={post.fields.slug}
                     >
-                      {post.frontmatter.title}
+                      {post.frontmatter.title}                     
                     </Link>
-                  </p>
-                </header>
-                <p>
-                  {post.frontmatter.description}
-                </p>
+                  </h2>
+                </header>                
               </article>
             </div>
             </div>
@@ -79,10 +85,9 @@ export default () => (
               }
               frontmatter {
                 title
-                description
                 templateKey
+                tags
                 date(formatString: "MMMM DD, YYYY")
-                featuredpost
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 1200, quality: 75) {
