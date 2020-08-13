@@ -133,9 +133,16 @@ $menu-label-color: $white-ter
 a.title.has-text-primary.is-size-4
   text-decoration: none!important;
 
+.clamped
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 
 @import "~bulma"
-
+  
+article.blog-list-item.tile.is-child.box.notification
+  padding: 1.25rem;
 
 // responsiveness
 +tablet-only
@@ -147,5 +154,5 @@ a.title.has-text-primary.is-size-4
     display: block
   .blog-list-item .featured-thumbnail
     text-align: center;
-    max-width: 70%;
+    max-width: 100%;
     margin: 0 0 1em;

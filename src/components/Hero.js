@@ -21,6 +21,7 @@ class Hero extends React.Component {
               backgroundAttachment: `cover`,
               backgroundSize: `cover`,
               backgroundRepeat: `no-repeat`,
+              marginBottom: `4vh`
             }}
             >
             <div style={{

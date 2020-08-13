@@ -44,14 +44,12 @@ class BlogRoll extends React.Component {
                     </span>
                   </p>
                 </header>
-                <p>
+                <p className="clamped">
                   {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Seguir leyendo →
-                  </Link>
                 </p>
+                <Link className="button" to={post.fields.slug}>
+                  Seguir leyendo →
+                </Link>
               </article>
             </div>
           ))}

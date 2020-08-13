@@ -17,42 +17,40 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
+      <section className="section">
       {helmet || ''}
       <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-             {title}
-            </h1>
-            <figure className="imagen-destacada" style={{
-              display: `block`,
-              height: `calc(10vw + 40vh)`,
-              width: `fit-content`,
-              margin: `0 auto`,
-            }}>
-              <img src={featuredimage.childImageSharp.fluid.src} style={{
-                objectFit: `contain`,
-                height: `100%`,
-              }}></img>
-            </figure>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
+        <div className="column is-10 is-offset-1">
+          <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+            {title}
+          </h1>
+          <figure className="imagen-destacada" style={{
+            display: `block`,
+            height: `calc(10vw + 40vh)`,
+            width: `fit-content`,
+            margin: `0 auto`,
+          }}>
+            <img src={featuredimage.childImageSharp.fluid.src} style={{
+              objectFit: `contain`,
+              height: `100%`,
+            }}></img>
+          </figure>
+          <PostContent content={content} />
+          {tags && tags.length ? (
+            <div style={{ marginTop: `4rem` }}>
+              <h4>Tags</h4>
+              <ul className="taglist">
+                {tags.map((tag) => (
+                  <li key={tag + `tag`}>
+                    <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ) : null}
         </div>
       </div>
-    </section>
+      </section>
   )
 }
 
