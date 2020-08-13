@@ -18,7 +18,7 @@ Tik Tok la plataforma que está subiendo como la espuma y cada vez acapara la at
 
 Tik Tok posee nada más y nada menos que 500 millones de usuarios activos al mes y según los expertos tiene un valor en el mercado que se acerca a los mil millones de dólares.
 
-usb creator**¿Cuantas descargas tiene TikTok?**
+**¿Cuantas descargas tiene TikTok?**
 
 Tik Tok llegó para quedarse porque es una de las aplicaciones que más se ha descargado en el mundo en los últimos años, con 2.000 millones de descargas en Play Store y App Store según Sensor Tower 2020.
 
@@ -42,7 +42,7 @@ En tercer lugar quedó Zoom, Facebook en cuarto y Messenger ocupó la quinta pos
 
 TikTok realmente ha tenido éxito en llegar a jóvenes de todo el mundo. Puede ser desconocida entre las generaciones mayores, pero triunfa entre los usuarios de menor edad. El 41% de los usuarios tienen entre 16 y 24 años (Globalwebindex, 2019).
 
-usb creator**¿Cuánto tiempo pasan diariamente los usuarios en TikTok?**
+**¿Cuánto tiempo pasan diariamente los usuarios en TikTok?**
 
 En Nicaragua , hay una clara tendencia hacia el aumento de la edad media de los nuevos usuarios de Tik Tok, un fenómeno que se ha visto, y sucede con cada plataforma que ha logrado tal nivel de popularidad, le pasó a twitter, le pasó a facebook, le pasó a whatsapp y le va a pasar a tik tok.
 
@@ -94,7 +94,7 @@ Habrá que estar pendiente de esta estadística de TikTok cuando los adultos reg
 
 **¿Cuántos vídeos se ven en TikTok al día?**
 
-Se ven más de 1 millón de vídeos al día en TikTok según Influencermarketinghub, 2019. Lo sorprendente es que TikTok alcanzó esta cifra de 1 millón de vistas por día durante su primer año.
+Se ven más de 1 millón de vídeos al día en TikTok según Influencer marketin ghub, 2019. Lo sorprendente es que TikTok alcanzó esta cifra de 1 millón de vistas por día durante su primer año.
 
 Esta estadística de TikTok demuestra que es la prueba más importante de que debes comenzar a prestar atención a esta red social. Como se mencionó anteriormente, la aplicación comenzó a crecer cuando adquirió a su rival Musical.ly en 2017. Después de la fusión de las dos aplicaciones, su crecimiento se exponenció. De esta manera, TikTok no solo tuvo una entrada sin problemas al mercado, sino que también logró satisfacer las necesidades de un mercado exigente. Pero es importante no olvidar que la considerable base de usuarios de TikTok no solo se debe al crecimiento en los mercados occidentales, sino también al crecimiento efectivo en mercados emergentes como China, India y Latinoamérica.
 
