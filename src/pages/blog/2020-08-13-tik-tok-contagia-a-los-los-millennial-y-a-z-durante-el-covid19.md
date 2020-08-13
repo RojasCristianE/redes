@@ -105,20 +105,12 @@ Podemos decir que TikTok está haciendo mucho más que solo reemplazar a Vine, M
 
 **Arte Redes:Resumen con las estadísticas de TikTok que necesitas saber en 2020:**
 
-1. + 800 millones de usuarios activos al mes en todo el mundo.
-
-2.  2.000 millones de descargas en Play Store y la App Store en los últimos años.
-
+1. 800 millones de usuarios activos al mes en todo el mundo.
+2. 2.000 millones de descargas en Play Store y la App Store en los últimos años.
 3. TikTok fue la aplicación más descargada en todo el mundo en marzo de 2020 con más de 115,2 millones de instalaciones.
-
 4. El 41% de los usuarios tienen entre 16 y 24 años.
-
 5. Los usuarios de habla hispana pasan una media de 43 minutos diarios en la aplicación y se conectan en torno a 7 veces al día.
-
 6. Está disponible en 155 países y en 75 idiomas, lo que cubre a una gran parte de la población global.
-
 7. El 90% de todos los usuarios acceden a la aplicación diariamente.
-
 8. El repentino aumento de popularidad de TikTok entre los adultos en 2020 se puede atribuir a la cuarentena por coronavirus.
-
 9. Respecto al número promedio de vídeos de TikTok vistos en la app, hubo más de 1 millón de vídeos vistos al día en un año.
