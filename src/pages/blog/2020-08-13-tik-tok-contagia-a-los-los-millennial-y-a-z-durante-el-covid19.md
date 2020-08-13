@@ -5,6 +5,8 @@ date: 2020-08-13T01:42:23.795Z
 featuredimage: /img/whatsapp-image-2020-08-12-at-7.49.05-pm.jpeg
 tags:
   - Redes
+  - Destacada
+  - tiktok
 ---
 Con un Facebook envuelto en escándalo por venta de datos, Instagram y YouTube infestadas con publicidad y Twitter tratando de liberarse de noticias falsas. Es aquí donde prácticamente radica el éxito de Tik Tok, pues ha sabido capitalizar lo que esa audiencia entre los 14 y los 24 años le hacía falta.
 
