@@ -24,3 +24,5 @@ En estas categorías destaca JR, el autodenominado rey de youtube y tiktok, en F
 En las Páginas deportivas y otros hobbys como turismo el Real Estelí está muy bien posicionado con 172mil fans, le sigue Recorriendo Nicaragua, Todo Ticket y los Indios del Boer. 
 
 De esta manera podemos indicar, que en Facebook los nicas consumimos ocio puro. También existe un fenómeno recurrente en contextos politizados como el crecimiento de bots o cuentas falsas, pero eso; será texto para otro artículo.
+
+![](/img/whatsapp-image-2020-08-13-at-15.39.25.jpeg)
