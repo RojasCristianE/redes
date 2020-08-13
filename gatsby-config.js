@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Redes',
     description: 'Portal de analítica y monitoreo de redes sociales en Nicaragua',
-    image: '/img/og-image',
+    image: 'http://redes.live/img/og-image.png',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

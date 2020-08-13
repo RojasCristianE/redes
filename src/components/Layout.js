@@ -8,6 +8,7 @@ import { withPrefix } from 'gatsby'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description, image } = useSiteMetadata()
+  const url = typeof window !== 'undefined' ? window.location.href : '';
   return (
     <div>
       <Helmet>
@@ -42,7 +43,7 @@ const TemplateWrapper = ({ children }) => {
 
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
-        <meta property="og:url" content="redes.live" />
+        <meta property="og:url" content={url}/>
         <meta property="og:image" content={image}/>
       </Helmet>
       <Navbar />
