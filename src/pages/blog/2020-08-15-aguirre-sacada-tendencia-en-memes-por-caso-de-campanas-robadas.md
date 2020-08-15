@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Aguirre Sacada tendencia en memes por caso de Campanas Robadas
+title: Aguirre Sacasa tendencia en memes por caso de Campanas Robadas
 date: 2020-08-15T20:29:32.180Z
 featuredimage: /img/b935a797-6926-45fe-af16-5808e36c8f1f.jpeg
 tags:
