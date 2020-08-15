@@ -8,6 +8,10 @@ tags:
 ---
 Durante semanas el tema de el **robo** en **templos católicos** ocupó titulares en los medios de comunicación. Este sábado la **Policía Nacional** logró **desarticular** una **banda** que había **sustraído** dos **campanas de bronce** se la **Parroquia** **San José Obrero** de **Granada** y el comprador de estos **Sacros** resultó ser nada más y nada menos que el **Ex Canciller Liberal** **Francisco Aguirre Sacasa** y las redes no tardaron en explotar con graciosos **memes** en referencia a este caso que tiene como protagonista a este personaje de la alta sociedad **nicaragüense**.
 
+**76%** de los usuarios de las redes sociales en **Nicaragua** emiten comentarios en contra de **Aguirre Sacasa** y su participación directa en la compra de las campanas robadas de la parroquia San José Obrero de #Granada. 
+
+El tema seguirá siendo **tendencia** en el transcurso del día.
+
 A Continuación presentamos a ustedes una **galería** de los **memes** más **virales** acerca de este tema que van desde un inocente humor blanco hasta lo más ácido. Sin duda alguna el ex **canciller Aguirre Sacasa** se ha convertido en el personaje más odiado y ridiculizado de este fin de semana y la población nicaragüense ha hecho gala de su creatividad a través de los memes.
 
 ![](/img/b9bba42e-e63d-471d-806c-c9c6a6d6b371.jpeg)
