@@ -8,9 +8,9 @@ tags:
   - Datos
   - Redes
 ---
-El 83% de los comentarios de los usuarios en  redes sociales son en contra del Dr. Francisco Aguirre Sacaza, por su participación directa en la compra de las campanas de la Iglesia de Juan José Obrero Granada.
+El 83% de los comentarios de los usuarios en redes sociales son en contra del Dr. Francisco Aguirre Sacaza lo que es reflejado en Facebook como sentimientos negativos en su algoritmo semántico de interpretación de palabras. Esto debido a la condena de los cibernautas por su participación directa en la compra de las campanas de la Iglesia de Juan José Obrero Granada.
 
-Dentro de los principales términos ocupados para referirse a Aguirre Sacasa son:  Tinker Bell, ladrón, tope, delito, compra entre otros, todo estos acompañados de una lluvia de memes que se viralizaron principalmente en la red social Twitter.
+Dentro de los principales términos ocupados para referirse a Aguirre Sacasa son: Tinker Bell, ladrón, tope, delito, compra entre otros, todo estos acompañados de una lluvia de memes que se viralizaron principalmente en la red social Twitter.
 
 ![Gráfica que muestra la evolución de los sentimientos en el tiempo](/img/whatsapp-image-2020-08-17-at-14.18.58-2.jpeg "Sentimiento a traves del tiempo")
 
