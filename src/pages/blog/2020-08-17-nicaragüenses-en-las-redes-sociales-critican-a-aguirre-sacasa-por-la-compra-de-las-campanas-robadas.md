@@ -14,4 +14,6 @@ Dentro de los principales términos ocupados para referirse a Aguirre Sacasa son
 
 ![Gráfica que muestra la evolución de los sentimientos en el tiempo](/img/whatsapp-image-2020-08-17-at-14.18.58-2.jpeg "Sentimiento a traves del tiempo")
 
+`Porcentaje de comentarios según cada red social`
+
 ![Gráfico de pastel mostrando el ratio de distribución de los sentimientos por canal](/img/whatsapp-image-2020-08-17-at-14.18.58-1-.jpeg "Ratio emocional")
