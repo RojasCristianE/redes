@@ -1,13 +1,12 @@
 ---
 templateKey: blog-post
 title: La importancia de las plataformas de mensajería para elaborar estrategias
-  digitales.
+  digitales
 date: 2020-08-25T22:42:15.288Z
 featuredimage: /img/catálogos-de-productos-en-whatsapp-compressor-mmm.jpg
 tags:
   - Analisis
   - Redes
-  - ""
 ---
 
 
