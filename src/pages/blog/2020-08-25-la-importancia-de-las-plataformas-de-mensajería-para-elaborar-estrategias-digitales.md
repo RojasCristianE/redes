@@ -3,13 +3,11 @@ templateKey: blog-post
 title: La importancia de las plataformas de mensajería para elaborar estrategias
   digitales
 date: 2020-08-25T22:42:15.288Z
-featuredimage: /img/catálogos-de-productos-en-whatsapp-compressor-mmm.jpg
+featuredimage: /img/plataforma-de-mensajerias.webp
 tags:
   - Analisis
   - Redes
 ---
-
-
 Las estrategias digitales son una herramienta generalmente utilizada por las empresas o negocios para posicionarse en internet, son un pilar fundamental del marketing, ya que, a través de ellas, las empresas logran conocer cuáles son las necesidades del mercado y de los consumidores, y “armar” una estrategia que permita satisfacerlas.
 
 Una empresa sin una estrategia digital definida, es una empresa con un performance decadente, pues al no contar con una estrategia que les permita definir un objetivo para satisfacer las necesidades de sus clientes, ni utilizar las herramientas adecuadas para ello, no estarán apuntando a una necesidad del cliente, sino más bien a una tendencia o moda, y sus intentos por alcanzar sus objetivos serán en vano.
@@ -20,7 +18,7 @@ Una estrategia digital implica determinar cuál es el objetivo del negocio o emp
 
 En la tendencia mundial encontramos a la mensajería instantánea como la forma más utilizada para mantenernos conectados, por lo que estas se convierten en el medio de vanguardia para las estrategias digitales.
 
-WhatsApp es el mejor ejemplo de plataforma de mensajería instantánea, que además de ser utilizada en nuestra vida ociosa, laboral o académica, se ha convertido, por sus características técnicas y usabilidad, en un recurso comunicativo altamente conveniente para el marketing digital.
+**WhatsApp** es el mejor ejemplo de plataforma de mensajería instantánea, que además de ser utilizada en nuestra vida ociosa, laboral o académica, se ha convertido, por sus características técnicas y usabilidad, en un recurso comunicativo altamente conveniente para el marketing digital.
 
 Las plataformas de mensajería instantánea, tomando como modelo WhatsApp por ser el más utilizado, satisfacen la necesidad de estar cerca del cliente a través de la comunicación directa e inmediata. Es un canal de comunicación que da una enorme efectividad de cara a la imagen de una marca.
 
