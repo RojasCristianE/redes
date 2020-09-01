@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Funcionamiento del Algoritmo de TIk Tok
-date: 2020-09-01T22:03:50.358Z
+date: 2020-09-01T22:08:04.799Z
 featuredimage: /img/tiktok.jpg
 tags:
   - Analisis
