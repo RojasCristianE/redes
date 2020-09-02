@@ -35,11 +35,11 @@ Sin embargo, si se compara esa cifra en relación a sus casi dos millones y medi
 
 En este aspecto, podemos apreciar en el gráfico se hizo un comparativo de las estadísticas presentadas en las fechas del martes 11 al viernes 14 de agosto del presente año, obteniendo que los porcentajes de alcance en relación a su universo de seguidores oscila entre 3.89% y el 4.24% resultados desalentadores que no se corresponden con la propaganda mediática que se hace cada mañana.
 
-<iframe src="https://drive.google.com/file/d/17Wjgyplx63pQFhKn6juU7nUTGhMt7OMu/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V0FTW_H3ID0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://drive.google.com/file/d/1iiFmBjP71HIbrt67zHrCowB2SoWMOIHv/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvZbqiQk1Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://drive.google.com/file/d/1PzthQR1emZHozTzqmi-gbO3PrcEHU4qR/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fv53x7kB_gQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 De este modo, el martes 11 se presentó un alcance de 95,580 personas lo que corresponde a un 3.89% de su total de seguidores, el miércoles 12 103,216 que es el 4.21%, el jueves 13 un total de 86,513 que representa un 3.52% y el viernes 104,133 correspondiente a un 4.24%, estos datos duros son obtenidos a través de perfiles falsos que generan comentarios y comparten los enlaces en grupos de compraventa específicos de acuerdo a las audiencias opositoras a las que se dirige el contenido del grupo RATENSA.
 
@@ -51,7 +51,7 @@ Como muestra de este comportamiento inauténtico coordinado se tomó como muestr
 
 En el siguiente video se puede comprobar como unos pocos perfiles comparten en poco tiempo en una gran cantidad de grupos, de forma coordinada y automatizada.
 
-<iframe src="https://drive.google.com/file/d/1g3vMQIP6V1FZuG6vlpvYw5245gWWuiA0/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8j1O9S8GqLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Cabe destacar, que los centenares de bots se concentran en los grupos privados y públicos de Facebook, definidos como políticos abiertamente de oposición al gobierno de Nicaragua, estos grupos representan un 68.2% del trabajo automatizado de canal 10, los grupos de opositores en el extranjero representan un 22.7% y los de compra y venta representan un 9.1%.
 
@@ -71,4 +71,4 @@ Este comportamiento inauténtico coordinado aplicado para generar sensación de 
 
 En el video a continuación, grabado del muro de 2 bots se puede confirmar que casi la totalidad de su contenido son automatizados, publicando el mismo contenido en varias cuentas distintas al mismo tiempo.
 
-<iframe src="https://drive.google.com/file/d/13QB9l0wx9u2sXXMxLHs-wSxwtqqTWJN4/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YYPedXaCYIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
